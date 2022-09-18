@@ -1,7 +1,3 @@
 Name: Vo Tran Nha Linh
-<<<<<<< HEAD
-Hobby: Sleeping, Sleeping and Sleeping. Save my ass!
-=======
-Hobby: Sleeping, Sleeping and Sleeping
-I'm pretty bored, tbh
->>>>>>> c4750c4 (Update introduction.txt)
+Hobby: Sleeping, Sleeping and Sleeping.
+Year: 2
